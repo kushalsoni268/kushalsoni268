@@ -42,13 +42,13 @@ Let’s connect to collaborate on cutting-edge web technologies! 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![basecamp](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=for-the-badge)
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=000&style=for-the-badge)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
+![basecamp](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=for-the-badge)
 
 ## 🔗 Links
 
