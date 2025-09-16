@@ -1,6 +1,6 @@
 ## Hi 👋 I am Kushal Soni
 
-👨‍💻 I am a Web Developer with a strong background in backend and frontend development, specializing in building robust, scalable, and high-performance software solutions. With a keen focus on coding excellence and attention to detail, I excel in creating, testing, and deploying applications that align with industry standards and client needs.
+👨‍💻 I am a Full Stack Developer with a strong background in backend and frontend development, specializing in building robust, scalable, and high-performance software solutions. With a keen focus on coding excellence and attention to detail, I excel in creating, testing, and deploying applications that align with industry standards and client needs.
 
 My expertise spans multiple programming languages, databases, and cloud services, enabling me to solve complex problems and enhance existing systems efficiently.
 
