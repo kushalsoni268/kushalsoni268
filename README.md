@@ -24,7 +24,7 @@ Let’s connect to collaborate on cutting-edge web technologies! 🚀
 ### Back-End Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![NestJs](https://img.shields.io/badge/-NestJs-ea2845?logo=nestjs&logoColor=white&style=for-the-badge)
 ![express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![php](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
